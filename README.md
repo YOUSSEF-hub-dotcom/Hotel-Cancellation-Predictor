@@ -49,4 +49,4 @@ The dataset contains hotel booking information such as reservation dates, guest 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - Scikit-learn
 - XGBoost
-  linked in (www.linkedin.com/in/engineer-youssef-mahmoud-63b243361)
+  linked in ([www.linkedin.com/in/engineer-youssef-mahmoud-63b243361](https://www.linkedin.com/in/youssef-mahmoud-63b243361?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOvrHZSnxRf2BYIFG5LE8lg%3D%3D))
